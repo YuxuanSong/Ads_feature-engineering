@@ -6,7 +6,7 @@ import  random
 import  json
 
 
-workspace = '/home/yxsong/Downloads/dataset/bebi/'
+workspace = '/home/yxsong/Downloads/dataset/data/'
 Campaign = '135139'
 nds_ratio = 0.03
 # we will use the code to negative downsampling

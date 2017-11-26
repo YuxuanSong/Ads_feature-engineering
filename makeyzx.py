@@ -10,7 +10,7 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 
-workspace = '/home/yxsong/Downloads/dataset/bebi/'
+workspace = '/home/yxsong/Downloads/dataset/data/'
 #Campaign = sys.argv[1]
 Campaign = '135139'
 

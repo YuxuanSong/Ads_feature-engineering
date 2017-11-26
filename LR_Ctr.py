@@ -6,7 +6,7 @@ import operator
 from sklearn.metrics import roc_auc_score
 from sklearn.metrics import mean_squared_error
 
-workspace = '/home/yxsong/Downloads/dataset/bebi/'
+workspace = '/home/yxsong/Downloads/dataset/data/'
 Campaign = '135139'
 
 bufferCaseNum = 1000000

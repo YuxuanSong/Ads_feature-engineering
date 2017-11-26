@@ -1,7 +1,7 @@
 import xgboost as xgb
 # read in data
 
-workspace = '/home/yxsong/Downloads/dataset/bebi/'
+workspace = '/home/yxsong/Downloads/dataset/data/'
 
 Campaign = '135059'
 

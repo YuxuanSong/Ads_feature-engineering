@@ -3,7 +3,7 @@ import os
 import json
 import gzip
 
-workspace = '/home/yxsong/Downloads/dataset/bebi/'
+workspace = '/home/yxsong/Downloads/dataset/data/'
 click_space = workspace+'clicks/'
 impression_space = workspace+'impressions/'
 #all_space = workspace+'all/'

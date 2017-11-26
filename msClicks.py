@@ -3,7 +3,7 @@ import os
 import json
 
 #workspace = '/home/yxsong/Downloads/dataset/bebi/'
-workspace = '/home/yxsong/Dataset/Ads/bebi/2017.2/'
+workspace = '/home/yxsong/Dataset/Ads/data/2017.2/'
 click_space = workspace+'clicks/'
 impression_space = workspace+'impressions/'
 #all_space = workspace+'all/'
